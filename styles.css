@@ -1,3 +1,16 @@
+h3
+{
+    font-family: Georgia, serif;
+}
+.container{
+    background-color: azure;
+}
+#intro{
+    margin: 40px;
+    padding-left: 30px;
+    padding-right: 300px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
 #underscope {
     margin-top: 20px;
     margin-left: 35px;
