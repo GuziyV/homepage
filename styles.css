@@ -8,11 +8,20 @@ h3
 #intro{
     margin: 40px;
     padding-left: 30px;
-    padding-right: 300px;
+    
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 #headline {
     padding-bottom: 20px;
     border-bottom: 3px solid grey;
     margin-left: 85px;
+}
+#timeline{
+    padding-left: 25px;
+}
+#myPhoto
+{
+    width: 15%;
+    height:15%;
+    border-radius: 50px;
 }
