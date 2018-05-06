@@ -3,7 +3,7 @@ h3
     font-family: Georgia, serif;
 }
 .container{
-    background-color: azure;
+    background-color: beige;
 }
 #intro{
     margin: 40px;
@@ -11,9 +11,8 @@ h3
     padding-right: 300px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
-#underscope {
-    margin-top: 20px;
-    margin-left: 35px;
-    margin-right: 450px;
+#headline {
+    padding-bottom: 20px;
     border-bottom: 3px solid grey;
+    margin-left: 85px;
 }
