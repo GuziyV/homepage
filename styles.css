@@ -30,3 +30,8 @@ h3
     border-bottom: 3px solid grey;
     margin-bottom: 20px;
 }
+.icon{
+    margin: 10px;
+    width: 5%;
+    height: 5%;
+}
